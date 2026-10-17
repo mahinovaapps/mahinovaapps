@@ -1,13 +1,13 @@
 <p align="center">
-  <img src="mahinova-icon-512.png" alt="Mahinova logo" width="120" />
+  <img src="mahinova-icon-512.png" alt="mahinova logo" width="120" />
 </p>
 
-<h1 align="center">Mahinova</h1>
+<h1 align="center">mahinova</h1>
 
 <p align="center"><b>Ideas built into apps.</b></p>
 
 <p align="center">
-  Mahinova designs and builds mobile apps, websites and software products<br />
+  mahinova designs and builds mobile apps, websites and software products<br />
   for small businesses and startups across India.
 </p>
 
@@ -43,4 +43,4 @@ You own the code, design and accounts from day one.
 
 Have an idea? Write to **[hello@mahinova.in](mailto:hello@mahinova.in)** or message us on WhatsApp. We talk in Bengali or English.
 
-<p align="center"><sub>Mahinova · Nadia, West Bengal, India · <a href="https://mahinova.in">mahinova.in</a></sub></p>
+<p align="center"><sub>mahinova · Nadia, West Bengal, India · <a href="https://mahinova.in">mahinova.in</a></sub></p>
